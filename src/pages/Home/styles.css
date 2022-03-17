@@ -1,0 +1,32 @@
+.home-container {
+  padding: 40px;
+  font-size: 28px;
+}
+
+.home-container h1 {
+  font-size: 1em;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+
+.home-container h3 {
+  font-size: 0.5em;
+  letter-spacing: 0.02em;
+  color: #7e7e7e;
+}
+
+.start-button {
+  color: #ffffff;
+  font-size: 0.5em;
+}
+
+
+@media (min-width: 576px) {
+    .home-container {
+        font-size: 48px;
+    }
+
+    .start-button {
+        font-size: 0.33em;
+    }
+}

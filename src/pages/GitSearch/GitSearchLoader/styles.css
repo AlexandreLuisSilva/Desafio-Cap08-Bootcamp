@@ -1,0 +1,11 @@
+.base-card{
+    display: flex;
+    flex-direction: column;
+}
+
+@media(min-width: 576px) {
+    .base-card{
+        display: flex;
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,13 @@
+.main-nav {
+  display: flex;
+  align-content: center;
+  padding-left: 40px;
+  min-height: 62px;
+  background-color: #1890FF;
+}
+
+.main-nav h6 {
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 0;
+}
